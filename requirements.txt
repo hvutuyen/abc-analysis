@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: osx-arm64
-abc-analysis=0.1.22=pypi_0
 abseil-cpp=20230802.0=h313beb8_2
 altair=5.0.1=py310hca03da5_0
 anyio=3.5.0=py310hca03da5_0
