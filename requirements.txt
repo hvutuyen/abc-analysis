@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: osx-arm64
-pandas=2.1.1=py310h46d7db6_0
-plotly=5.9.0=py310hca03da5_0
-python=3.10.13=hb885b13_0
-streamlit=1.29.0=pypi_0
+pandas=2.1.1
+plotly=5.9.0
+python=3.10.13
+streamlit=1.29.0
